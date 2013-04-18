@@ -2,3 +2,5 @@
 .DS_Store
 
 WaitingForRobot.xcodeproj/project.xcworkspace/xcuserdata/gjh.xcuserdatad/UserInterfaceState.xcuserstate
+
+*.corpus
